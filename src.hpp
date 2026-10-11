@@ -1,5 +1,6 @@
 #ifndef SRC_HPP
 #define SRC_HPP
+// CrossArray implementation for problem 1410
 
 namespace sjtu {
     class CrossArray {
